@@ -1,1 +1,21 @@
-Create 123
+Sign-up session:
+Add text "HELLO!"
+Add text "PLEASE SIGN UP"
+Add text "First name"
+Add a field to allow the customer to write his first name inside it
+Add text "Last name"
+Add a field to enable the customer to write his last name inside it
+Add text "E-mail"
+Add a field to allow the customer to write his email inside it
+Add text "Password"
+Add a field to enable the customer to write his password inside it
+Add text "Confirm Password"
+Add a field to allow the customer to write his confirm password inside it
+
+Sign-in session:
+
+
+Payment session:
+Add text "Apple Pay"
+Add an image "Apple Pay logo image"
+Add a button that takes you to the Apple Pay payment area
